@@ -23,9 +23,10 @@
 
 ## Online demo
 
-https://industriai-machine-demo.windycove128.chatgpt.site
+https://industriai-demo.vercel.app
 
-ลิงก์ Sites เป็นเว็บส่วนตัวของเจ้าของโครงการ สำหรับเปิดสาธิตจากบัญชีเจ้าของ หากใช้เครื่องอื่น ให้เปิด index.html จาก repository ได้โดยตรง
+เว็บ Demo เผยแพร่บน Vercel เปิดลิงก์เพื่อสาธิตได้ หากต้องการใช้งานแบบออฟไลน์ ให้เปิด index.html จาก repository โดยตรง
 
 เวอร์ชันนี้ใช้เกณฑ์แจ้งเตือนตัวอย่าง ยังไม่มีโมเดล AI ที่ผ่านการฝึกหรือทดสอบกับโรงงานจริง
+
 
